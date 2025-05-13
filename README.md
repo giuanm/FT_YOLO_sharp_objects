@@ -2,7 +2,7 @@
 
 ### Next we have the English version of the README after the Portuguese README
 
-![Detection]([https://github.com/giuanm/FT_YOLO_sharp_objects/blob/main/Estilete_Preview.jpeg?raw=true])
+![Detection]([https://github.com/giuanm/FT_YOLO_sharp_objects/blob/81f70b61eadb22911f6be0705014a1159aec2acd/Estilete_Preview.jpeg])
 
 # Fine-tuning de Modelo YOLOv8L para Detecção de Objetos Cortantes
 
