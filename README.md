@@ -1,6 +1,6 @@
 # PT
 
-### * Next we have the English version of the README after the Portuguese README
+### * Below we have the English version of the README after the Portuguese README
 
 ![Estilete_Preview](https://github.com/user-attachments/assets/72882f4d-dac0-4c9e-9bd6-4f1857b60b94)
 
